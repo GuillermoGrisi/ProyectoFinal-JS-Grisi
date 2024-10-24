@@ -21,5 +21,13 @@ document.getElementById("productoInputAgregar").addEventListener("keydown", func
 
 document.getElementById('productoInput').addEventListener("input", buscarProductos);
 
+document.getElementById('btnAnterior').addEventListener("click", function() {
+    cambiarPagina('atras');
+});
+
+document.getElementById('btnSiguiente').addEventListener("click", function() {
+    cambiarPagina('adelante');
+});
 
 document.addEventListener('DOMContentLoaded', obtenerProductos);
+
