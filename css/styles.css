@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+    margin: 10px 20px;
+    box-sizing: border-box;
+    height: 100%;
+    background-image: url('../assets/images/supermarket-949913_1280_2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.comprado {
+    text-decoration: line-through;
+    color: green;
+  }
+
+.noComprado {
+    text-decoration: line-through;
+    color: red;
+  }

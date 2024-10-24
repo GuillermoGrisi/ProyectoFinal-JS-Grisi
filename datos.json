@@ -1,0 +1,363 @@
+[
+    {
+      "id": 1,
+      "nombre": "Tomate",
+      "descripcion": "Tomate fresco y jugoso.",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQvCg9Mub2HqzBhjpq72jMNr0c_jJZ-bmz08GHhCq2GF_ivqIJ"
+    },
+    {
+      "id": 2,
+      "nombre": "Lechuga",
+      "descripcion": "Lechuga fresca ideal para ensaladas.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFta2c28PP-yn3joSo1EgyK4A4HQT7ABbPnDwu7Dj3y5kZRJbr"
+    },
+    {
+      "id": 3,
+      "nombre": "Zanahoria",
+      "descripcion": "Zanahoria crujiente y nutritiva.",
+      "imagen": "https://mistiendas.com.co/4-large_default/zanahoria-selecta-kilo.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Papa",
+      "descripcion": "Papa amarilla de calidad.",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQL10SiAaQxje_j6zT5Wlg92SOv9XfExLMkhEHxrJM-lN_7LBL9"
+    },
+    {
+      "id": 5,
+      "nombre": "Cebolla",
+      "descripcion": "Cebolla blanca con gran sabor.",
+      "imagen": "https://www.fructusterrum.com/wp-content/uploads/2020/07/cebolla-roja-1.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Ajo",
+      "descripcion": "Ajo fresco y aromático.",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdN7UElwA5ZBXoI3yzpY2Va7HCpk0DAFuUddHJaYVKqLWyoln_GQQXFICGhgWbyo4ytvruCu6O6cAV27vARlp9duzQQkxWRkkmiXlKWQ"
+    },
+    {
+      "id": 7,
+      "nombre": "Pepino",
+      "descripcion": "Pepino ideal para ensaladas.",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0CwOTuMtNBtAL30PkYt-hFkLi8gav6Qvn7tLUV0gw-2zEc4_s"
+    },
+    {
+      "id": 8,
+      "nombre": "Manzanas",
+      "descripcion": "Manzana roja crujiente y dulce.",
+      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/manzana.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Bananas",
+      "descripcion": "Plátano maduro, listo para comer.",
+      "imagen": "https://www.millerchemical.com/es/wp-content/uploads/sites/2/2021/03/iStock-1184345169.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Naranja",
+      "descripcion": "Naranja jugosa y rica en vitamina C.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBy2uSUuJbO0wEsgICk3ovc0utf9QibCkMXw&s"
+    },
+    {
+      "id": 11,
+      "nombre": "Frutillas",
+      "descripcion": "Frutillas frescas y dulces.",
+      "imagen": "https://www.maraustral.com.uy/wp-content/uploads/sites/11/2024/02/FRUTILLAS-ENTERAS-1kg.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Uvas",
+      "descripcion": "Uvas moradas y jugosas.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrpug2-aG-bsGAVBSnPGSuu8v6NwUeuGJeYg&s"
+    },
+    {
+      "id": 13,
+      "nombre": "Melón",
+      "descripcion": "Melón dulce y refrescante.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmEuiflAIZTa9nxUvuMsgvyU89R44LkJrl6g&s"
+    },
+    {
+      "id": 14,
+      "nombre": "Sandía",
+      "descripcion": "Sandía grande y jugosa.",
+      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/sandia.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Pechuga de Pollo",
+      "descripcion": "Pechuga de pollo sin hueso.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSd5Ut8vXRNibx0WAGdhmc67dzn59huHwZUw&s"
+    },
+    {
+      "id": 16,
+      "nombre": "Carne Picada",
+      "descripcion": "Carne picada de primera calidad.",
+      "imagen": "https://stradivariusbeef.com/uy/wp-content/uploads/sites/3/2021/07/Carne-picada.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Carne",
+      "descripcion": "Carne fresca.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1NcKr7MJ_RYuqqiXmQmY0Jjzw_vOkfzhJ8Q&s"
+    },
+    {
+      "id": 18,
+      "nombre": "Pescado",
+      "descripcion": "Filete de pescado fresco.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWPbnSmKWZirF_ZrE1HmsDL1yebWYFOECB2Q&s"
+    },
+    {
+      "id": 19,
+      "nombre": "Camarones",
+      "descripcion": "Camarones frescos listos para cocinar.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD27HoJb2X6q9ledk0Oy4kGaRQ3Hh08F7lhQ&s"
+    },
+    {
+      "id": 20,
+      "nombre": "Salchichas parrilleras",
+      "descripcion": "Salchichas parrilleras.",
+      "imagen": "https://acdn.mitiendanube.com/stores/001/080/373/products/salchicha-21-4188e23caee0c4b8c616657570169069-640-0.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Leche Entera",
+        "descripcion": "Leche entera pasteurizada.",
+        "imagen": "https://www.infobae.com/resizer/v2/FD3EOBFEMFHQDK6ACEGLXYH4CI.jpg?auth=ea3c988fee41cbc3367e2d0214c9f53f42a5890591b3ed6cee23f1bfcf6f1d7d&smart=true&width=350&height=197&quality=85"
+      },
+      {
+        "id": 22,
+        "nombre": "Huevos",
+        "descripcion": "Huevos frescos de gallina.",
+        "imagen": "https://www.semana.com/resizer/v2/RBAPXXZP4JAZTKZZ67KGMCMWC4.jpg?auth=9d32835a28cfd07c04606f95138394eebf0e0666460f00a1ebd21242681d33b1&smart=true&quality=75&width=1280&height=720"
+      },
+      {
+        "id": 23,
+        "nombre": "Yogur Natural",
+        "descripcion": "Yogur natural sin azúcar.",
+        "imagen": "https://osojimix.com/wp-content/uploads/2021/04/YOGURT-NATURAL.jpg"
+      },
+      {
+        "id": 24,
+        "nombre": "Queso Manchego",
+        "descripcion": "Queso manchego curado.",
+        "imagen": "https://saycheese.com.uy/wp-content/uploads/2021/07/Queso-Manchego-Maese-Miguel-DOP-3-meses-x-grs-ROCINANTE.jpg"
+      },
+      {
+        "id": 25,
+        "nombre": "Manteca",
+        "descripcion": "Manteca sin sal.",
+        "imagen": "https://static.wixstatic.com/media/2d0188_8a10cded8a674eca8ead40f425df05d4~mv2.jpg/v1/fill/w_480,h_270,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/2d0188_8a10cded8a674eca8ead40f425df05d4~mv2.jpg"
+      },
+      {
+        "id": 26,
+        "nombre": "Pan de Molde",
+        "descripcion": "Pan de molde blanco.",
+        "imagen": "https://s1.elespanol.com/2019/05/08/ciencia/nutricion/ocu_organizacion_de_consumidores_y_usuarios-pan-nutricion_396971661_122339258_1706x960.jpg"
+      },
+      {
+        "id": 27,
+        "nombre": "Galletas",
+        "descripcion": "Galletas de chocolate crujientes.",
+        "imagen": "https://www.paulinacocina.net/wp-content/uploads/2022/04/galletas-de-chocolate-receta.jpg"
+      },
+      {
+        "id": 28,
+        "nombre": "Cereal",
+        "descripcion": "Cereal integral con miel.",
+        "imagen": "https://granosysemillas.uy/wp-content/uploads/2022/02/aritos-de-miel.jpg"
+      },
+      {
+        "id": 29,
+        "nombre": "Arroz",
+        "descripcion": "Arroz blanco de grano largo.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHnIoCUft2B38rPpuYHnbIqPwBJCsPt1QNuA&s"
+      },
+      {
+        "id": 30,
+        "nombre": "Lentejas",
+        "descripcion": "Lentejas secas de alta calidad.",
+        "imagen": "https://editorialtelevisa.brightspotcdn.com/dims4/default/936a8bb/2147483647/strip/true/crop/1194x672+3+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2018%2F03%2Fcomo-cocinar-lentejas-1.jpg"
+      },
+      {
+        "id": 31,
+        "nombre": "Garbanzos",
+        "descripcion": "Garbanzos secos para cocer.",
+        "imagen": "https://mejorconsalud.as.com/wp-content/uploads/2016/11/beneficios-garbanzos-salud.jpg"
+      },
+      {
+        "id": 32,
+        "nombre": "Frijoles Negros",
+        "descripcion": "Frijoles negros cocidos.",
+        "imagen": "https://images.cookforyourlife.org/wp-content/uploads/2015/08/Basic-Black-Beans-2-e1666973834544.jpg"
+      },
+      {
+        "id": 33,
+        "nombre": "Pasta",
+        "descripcion": "Pasta de trigo duro.",
+        "imagen": "https://thumbs.dreamstime.com/z/pasta-de-trigo-duro-cerrada-espigas-y-en-la-servilleta-una-lino-208520944.jpg"
+      },
+      {
+        "id": 34,
+        "nombre": "Harina de Trigo",
+        "descripcion": "Harina de trigo refinada.",
+        "imagen": "https://i.blogs.es/95d4c3/harina-trigo-tipos/840_560.jpg"
+      },
+      {
+        "id": 35,
+        "nombre": "Aceite de Oliva",
+        "descripcion": "Aceite de oliva virgen extra.",
+        "imagen": "https://media.glamour.mx/photos/6539d57be8f5dbbe151b9020/1:1/w_2000,h_2000,c_limit/aceite-de-oliva-para-cubrir-las-canas.jpg"
+      },
+      {
+        "id": 36,
+        "nombre": "Vinagre Balsámico",
+        "descripcion": "Vinagre balsámico de Módena.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwAT1tZuLGd5Ydn60EaTTYVx-6uEE-SCl4Pg&s"
+      },
+      {
+        "id": 37,
+        "nombre": "Azúcar Blanca",
+        "descripcion": "Azúcar blanca refinada.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGrIouJPuNNVZvvsEjT5hjhfeA-6IasCyVw&s"
+      },
+      {
+        "id": 38,
+        "nombre": "Sal Fina",
+        "descripcion": "Sal fina de mesa.",
+        "imagen": "https://granosysemillas.uy/wp-content/uploads/2023/01/sal-20210415-1159656.jpg"
+      },
+      {
+        "id": 39,
+        "nombre": "Pimienta Negra",
+        "descripcion": "Pimienta negra molida.",
+        "imagen": "https://cocinista.b-cdn.net/download/bancorecursos/ingredientes/ingrediente-pimienta-negra.jpg"
+      },
+      {
+        "id": 40,
+        "nombre": "Canela Molida",
+        "descripcion": "Canela molida fina.",
+        "imagen": "https://i0.wp.com/fresh.uy/wp-content/uploads/2024/06/canela.png?fit=1000%2C1000&ssl=1"
+      },
+      {
+        "id": 41,
+        "nombre": "Café",
+        "descripcion": "Café molido tostado.",
+        "imagen": "https://www.kitchencenter.cl/cdn/shop/articles/Firefly_Generar_una_foto_1000_x_1000_que_se_muestra_cafe_en_frano_y_cafe_molido_puede_ser_mas_minim.jpg?v=1712172592"
+      },
+      {
+        "id": 42,
+        "nombre": "Té Verde",
+        "descripcion": "Té verde natural.",
+        "imagen": "https://s1.abcstatics.com/media/bienestar/2022/05/21/te-verde-k0sG--1248x698@abc.jpg"
+      },
+      {
+        "id": 43,
+        "nombre": "Jugo de Naranja",
+        "descripcion": "Jugo de naranja natural.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Ea2KBouOsrzI-QErWVHyI0zuvFeZfGXfxg&s"
+      },
+      {
+        "id": 44,
+        "nombre": "Coca Cola",
+        "descripcion": "Coca Cola de 2 litros.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfW9eZbMisk2SHZnTVtK873NqrqzYJD639g&s"
+      },
+      {
+        "id": 45,
+        "nombre": "Agua Mineral",
+        "descripcion": "Agua mineral sin gas.",
+        "imagen": "https://www.officenter.com.uy/imgs/productos/productos34_88530.jpg"
+      },
+      {
+        "id": 46,
+        "nombre": "Leche Descremada",
+        "descripcion": "Leche descremada pasteurizada.",
+        "imagen": "https://alpina.com/media/mageplaza/blog/post/l/a/la-leche_descremada-y-la-leche-deslactosadas-son_iguales-1.jpg"
+      },
+      {
+        "id": 47,
+        "nombre": "Jugo de Ananá",
+        "descripcion": "Jugo de ananá sin azúcar añadida.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fJIWTVuIXz8O8Cv26J3eHPWVz45TYxzPlw&s"
+      },
+      {
+        "id": 48,
+        "nombre": "Cerveza",
+        "descripcion": "Cerveza rubia.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq3N9kMF57NhNP2NhToZ0OOcs71O4T6yuhOw&s"
+      },
+      {
+        "id": 49,
+        "nombre": "Vino Tinto",
+        "descripcion": "Vino tinto reserva.",
+        "imagen": "https://media.glamour.mx/photos/65831110a2554c6e502ddcaf/1:1/w_2000,h_2000,c_limit/ritual-con-vino-tinto.jpg"
+      },
+      {
+        "id": 50,
+        "nombre": "Whisky",
+        "descripcion": "Whisky de malta escocés.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_gsgatLPGJV_iTVpcabCnqZtScMQ4vqXUg&s"
+      },
+      {
+        "id": 51,
+        "nombre": "Jugo de Manzana",
+        "descripcion": "Jugo de manzana natural.",
+        "imagen": "https://t2.uc.ltmcdn.com/es/posts/4/5/1/como_hacer_zumo_de_manzana_27154_orig.jpg"
+      },
+      {
+        "id": 52,
+        "nombre": "Sprite Zero",
+        "descripcion": "Sprite Zero sin azúcar.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Fc1Csyw3b4gr7OZ35IPzGnt5-dWxVZN8NQ&s"
+      },
+      {
+        "id": 53,
+        "nombre": "Chocolatada",
+        "descripcion": "Leche chocolatada.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Chocolate_milk.JPG/640px-Chocolate_milk.JPG"
+      },
+      {
+        "id": 54,
+        "nombre": "Jugo de Arándano",
+        "descripcion": "Jugo de arándano natural.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6IJVtGDtz4lKjloX_59ExcB2jzc8jfpx9A&s"
+      },
+      {
+        "id": 55,
+        "nombre": "Té Negro",
+        "descripcion": "Té negro en bolsitas.",
+        "imagen": "https://tayen.cl/wp-content/uploads/2024/04/te-negro-para-blog.jpg"
+      },
+      {
+        "id": 56,
+        "nombre": "Yerba",
+        "descripcion": "Yerba mate.",
+        "imagen": "https://resizer.glanacion.com/resizer/v2/cientificos-argentinos-prueban-por-primera-vez-KG6XXMWX6JCFZN2ARHR4VUW6MU.jpg?auth=7c237f293c6390d0a783ab96f414d7bbd796f89ca1fbf22aac7cdf987ec2ad18&width=768&quality=70&smart=false"
+      },
+      {
+        "id": 57,
+        "nombre": "Agua con Gas",
+        "descripcion": "Agua mineral con gas.",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/08/03/16910529417869.jpg"
+      },
+      {
+        "id": 58,
+        "nombre": "Leche Entera",
+        "descripcion": "Leche entera pasteurizada.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5fXttJXKA8bt3PduUo08cL1PJ9EVT2oNjhw&s"
+      },
+      {
+        "id": 59,
+        "nombre": "Polenta",
+        "descripcion": "Polenta instantanea.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7OOrIzlNnjEAjOzcRyz3ASzpd28BFaCHyQ&s"
+      },
+      {
+        "id": 60,
+        "nombre": "Cerveza Negra",
+        "descripcion": "Cerveza negra artesanal.",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCmsVfkJHGmRM1wKitCP4wXFNPaLnS4kspkg&s"
+      }
+  ]
+  
